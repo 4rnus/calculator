@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: royalblue;
+    
+}
+
+h2{
+    text-align: left;
+    color: royalblue;
+}
+h3{
+    text-align: center;
+    color: royalblue;
+}
+h5{
+    text-align: right;
+    color: royalblue;
+}
+input,h2{
+    text-align: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin: auto;
+    
+}
+.nf {
+    background-color: aquamarine;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 15px;
+    box-shadow: 0 10px 4px -4px #777;
+    text-align: center;
+    
+}
+
+.button {
+    background-color: royalblue;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 120px;
+    cursor: pointer;
+    
+}
+
+#result {
+    margin-top: 5%;
+    font-size: 40px;
+    color: royalblue;
+    text-align: center;
+}
